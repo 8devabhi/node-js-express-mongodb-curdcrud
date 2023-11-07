@@ -13,15 +13,14 @@ Implements Api endpoints for CRUD operations executions as below
 ## Table of Contents
 
 - [Installation](#installation)
-- [Run Project](#usage)
-- [API Descriptions](#api-descriptions)
+- [Run Project](#Run-Project)
 
 ## Installation
 
 1. Clone the repository 
 2. run command npm install
 
-## Run Project
+## Run-Project
 
 1. Make sure you have an account on mongodb atlas
 2. create a database in a cluster at mongodb
